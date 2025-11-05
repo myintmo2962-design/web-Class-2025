@@ -1,0 +1,8 @@
+*Rest default margin and set base font */
+body{
+    font-family :sans-serif;
+    margin:0;
+padding:0;
+background-colour:#f8f9fa;
+colour:#333;
+} 0B､: 
